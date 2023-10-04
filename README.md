@@ -8,4 +8,3 @@
 KraiwitSeepakaew/KraiwitSeepakaew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://developercommunity.visualstudio.com/t/Feature-to-monitor-multiple-subscription/10432027https://dev.azure.com/conda-forge/feedstock-builds/_build/results?buildId=795284&view=logs&j=656edd35-690f-5c53-9ba3-09c10d0bea97&t=8f198d7a-2973-40c9-b237-f0d49964e878&l=4https://dev.azure.com/conda-forge/feedstock-builds/_build/results?buildId=795284&view=logs&j=656edd35-690f-5c53-9ba3-09c10d0bea97&t=8f198d7a-2973-40c9-b237-f0d49964e878&l=3https://developercommunity.visualstudio.com/t/Feature-to-monitor-multiple-subscription/10432027make CC=loongcc FC=loongf95 HOSTCC=gcc TARGET=LOONGSON3A CROSS=1 CROSS_SUFFIX=mips64el-st-linux-gnu-   NO_LAPACKE=1 NO_SHARED=1 BINARY=32
